@@ -49,9 +49,12 @@ Ability to use own initiative by working competently without close supervision.
 
 **Bikeworks CIC** (January 2015 to October 2016)    
 *Inclusive cycling club manager/ Training and volunteering co-ordinator*  
+
 **Bikeworks CIC, Care in Mind, CI, Maze, Sustrans** (November 2009 to present, part time from Jan 2015)   
 *Cycle trainer*  
+
 **SSP UK,  PAUL UK, Caffe Nero** (September 2004 to November 2009)   
 *Unit manager*
+
 **Frost & Sullivan** (March to May 2005)   
 *Market researcher (fixed-term contract)*
