@@ -1,48 +1,57 @@
-## Your Name
-
-A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what you're looking for: what you would ideally be doing, with whom and in what environment.
+## Eva Balog
+A self-motivated and enthusiastic member of the
+[Makers Academy](http://www.makersacademy.com/) and
+[Codebar](https://codebar.io/) alumni network with strong communication and organisation skills and over ten years of experience in Customer Service, Training & Development and Recruitment gained through various managerial and support roles. Strong advocate of sustainability, transparency and lifelong learning. Passionate about technology and its potential for the service of society.
+From an operational role within the social model of disability, I've started learning programming in January 2017 as a response to the deficiency of technological tools in the third sector. I'm currently looking for a role as a software developer and feeling excited about deepening my knowledge and empowering people with my freshly gained skills.
 
 ## Skills
 
-#### This Skill
+#### Creative problem-solver
+Strong problem solving skills developed through hands-on experience in operations.
 
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
+#### Implementation skills
+As a Unit Manager for PAUL UK Ltd, I had to implement many new procedures as the business was expanding and company policies became more defined.  
 
-- Experience
-- Achievements
-- Evidence
+#### Empowering others
+Ability to develop/motivate others by identifying training gaps and establishing SMART objectives.
 
-#### Another Skill
+#### Prioritization
+Able to prioritize workload effectively to meet tight deadlines under pressure.
 
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
+#### Commercial awareness
 
-- I achieved A during my work at B (job, or otherwise)
-- I contributed to the growth of X while doing Y (job, or otherwise)
-- I built this, made this, broke this, fixed this, etc.
-- A link to some on-line evidence (blogs, videos, articles, etc.)
+#### Autonomous
+Ability to use own initiative by working competently without close supervision.
 
 ## Education
 
-#### Makers Academy (start_date to end_date)
+#### Makers Academy (January to May 2017)
 
-- Curiosity and hungry passion for code
-- Independent learner and problem-solver
-- OOP, TDD, SOLID, MVC, DDD
+- Curios and independent learner
+- OOP, TDD, SOLID, MVC
 - Software Craftsmanship
-- Ruby, Rails, Javascript, Node.js, Angular.js
-- Rspec, Jasmine, Mocha
+- Ruby, Rails, Javascript, Python
+- Rspec, Jasmine
 
-#### Your University / College (start_date to end_date)
+#### City Lit, (2013 to 2014)
+- Diploma in Teaching Pilates (NVQ Level 3)
 
-- Subject, any specialisms
-- Grade
-- Other cool stuff
+#### C.T. UK, British Cycling (2010, 2016)
+- Accredited National Standard Instructor
 
-#### Any other qualifications
+#### Tower Hamlets College, (2010)
+- PRINCE2
+
+#### Birkbeck, University of London (2007 to 2011)
+- History of Art(BA)
 
 ## Experience
 
-**Company Name** (start_date to end_date)    
-*Your job title*  
-**Company Name** (start_date to end_date)   
-*Your job title*  
+**Bikeworks CIC** (January 2015 to October 2016)    
+*Inclusive cycling club manager/ Training and volunteering co-ordinator*  
+**Bikeworks CIC, Care in Mind, CI, Maze, Sustrans** (November 2009 to present, part time from Jan 2015)   
+*Cycle trainer*  
+**SSP UK,  PAUL UK, Caffe Nero** (September 2004 to November 2009)   
+*Unit manager*
+**Frost & Sullivan** (March to May 2005)   
+*Market researcher (fixed-term contract)*
