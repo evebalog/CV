@@ -1,7 +1,7 @@
 ## Eva Balog
 A self-motivated and enthusiastic member of the
 [Makers Academy](http://www.makersacademy.com/) and
-[Codebar](https://codebar.io/) alumni network with strong communication and organisation skills and over ten years of experience in Customer Service, Training & Development and Recruitment gained through various managerial and support roles. Strong advocate of sustainability, transparency and lifelong learning. Passionate about technology and its potential for the service of society.
+[Codebar](https://codebar.io/) alumni network with strong communication and organisation skills and over ten years of experience in Customer Service, Training & Development and Recruitment gained through various managerial and support roles. Strong advocate of sustainability, transparency and lifelong learning. Passionate about technology and its potential for the service of society.  
 From an operational role within the social model of disability, I've started learning programming in January 2017 as a response to the deficiency of technological tools in the third sector. I'm currently looking for a role as a software developer and feeling excited about deepening my knowledge and empowering people with my freshly gained skills.
 
 ## Skills
@@ -19,6 +19,7 @@ Ability to develop/motivate others by identifying training gaps and establishing
 Able to prioritize workload effectively to meet tight deadlines under pressure.
 
 #### Commercial awareness
+Being responsible for P&L, I had a good understanding of the wider environment in which our business operated and successfully managed variable costs, also exceeded sales targets by 15% in the first year when taking over management of my first shop at Holland Park.
 
 #### Autonomous
 Ability to use own initiative by working competently without close supervision.
