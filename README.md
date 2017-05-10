@@ -7,7 +7,9 @@ From an operational role within the social model of disability, I've started lea
 ## Skills
 
 #### Creative problem-solver
-Strong problem solving skills developed through hands-on experience in operations.
+Strong problem solving skills developed through hands-on experience in operations and life in general.  
+I needed three shoe racks, but there was only two left in stock. Therefore I've bought and re-designed those two and created a less 'off-the-shelf' solution that met all my needs:  
+![alt text](https://github.com/evebalog/CV/blob/master/image1.JPG "3FOR2 shoe racks")  
 
 #### Implementation skills
 As a Unit Manager for PAUL UK Ltd, I had to implement many new procedures as the business was expanding and company policies became more defined.  
@@ -16,8 +18,9 @@ As a Unit Manager for PAUL UK Ltd, I had to implement many new procedures as the
 Ability to develop/motivate others by identifying training gaps and establishing SMART objectives.
 
 #### Prioritization
-I'm able to prioritize workload effectively to meet tight deadlines under pressure. After graduating at Makers, I've realised that I've made quite a few mistakes in terms of getting myself ready to apply for jobs, such as not updating my CV to reflect skills and capabilities that would demonstrate my competence to be a junior software developer, not writing READMEs for my projects, etc. Therefore I've written a list of priorities that I can follow to get back on track:  
-- [x] Write a to-do list with order of priority (check!)  
+I'm able to prioritize workload effectively to meet tight deadlines under pressure. After graduating at Makers, I've realised that I've made quite a few mistakes in terms of getting myself ready to apply for jobs, including, but not limited to, not updating my CV to reflect skills and capabilities that would demonstrate my competence to be a junior software developer, not writing READMEs for my projects. Therefore I've written a list of priorities that I can follow to get back on track:  
+- [x] Write a to-do list in order of priority (check!)  
+- [x] Check grammar and spelling before committing to GitHub (WIP)
 - [x] Update CV to demonstrate skills relevant to the jobs I want to apply for  
 - [ ] Provide evidence for the skills highlighted in CV   
 - [ ] Link most exciting projects to CV (even if they are unfinished)  
