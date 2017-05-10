@@ -2,7 +2,7 @@
 A self-motivated and enthusiastic member of the
 [Makers Academy](http://www.makersacademy.com/) and
 [Codebar](https://codebar.io/) alumni network with strong communication and organisation skills and over ten years of experience in Customer Service, Training & Development and Recruitment gained through various managerial and support roles. Strong advocate of sustainability, transparency and lifelong learning. Passionate about technology and its potential for the service of society.  
-From an operational role within the social model of disability, I've started learning programming in January 2017 as a response to the deficiency of technological tools in the third sector. I'm currently looking for a role as a software developer and feeling excited about deepening my knowledge and empowering people with my freshly gained skills.
+From an operational role within the social model of disability, I've started learning programming in January 2017 as a response to the deficiency of technological tools in the third sector. During my time at Makers I mostly enjoyed third party API integrations, designing databases (using PostgreSQL) and playing with naive bayes classifiers to improve accuracy for sentiment analysis. I'm currently looking for a role as a software developer and feeling excited about deepening my knowledge and empowering people with my freshly gained skills.
 
 ## Skills
 
